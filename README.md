@@ -2,16 +2,14 @@
 
 **Django** starter built with [Rocket Generator](https://app-generator.dev/). Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
-> Support this service via a [sponsorship](https://appseed.gumroad.com/l/rocket-sponsorship) (managed by GUMROAD) - **ONLY $9**
-
 <br />
 
 ## Features: 
 
-- `Up-to-date Dependencies`
-- Modern UI 
-- CI/CD flow via Render
-- API Generator (optional)
+- ✅ `Up-to-date Dependencies`
+- ✅ Modern UI: Soft Dashboard from `Creative-Tim`
+- ✅ CI/CD flow via Render
+- ✅ API Generator (optional)
 
 <br />
 
@@ -32,8 +30,8 @@ Once the above command is finished, the new app is started on `http://localhost:
 > Download/Clone the sources  
 
 ```bash
-$ git clone https://github.com/<THIS_REPO>.git
-$ cd <LOCAL_Directory>
+$ git clone https://github.com/appseed-projects4/sample-rocket-django.git
+$ cd sample-rocket-django
 ```
 
 <br />
