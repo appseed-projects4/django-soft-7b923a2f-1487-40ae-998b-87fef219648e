@@ -7,7 +7,7 @@
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ Modern UI: Soft Dashboard from `Creative-Tim`
+- ✅ Modern UI: **[Soft Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)** from `Creative-Tim`
 - ✅ CI/CD flow via Render
 - ✅ API Generator (optional)
 
